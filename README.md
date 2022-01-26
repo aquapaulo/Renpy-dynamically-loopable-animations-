@@ -8,7 +8,7 @@ https://f95zone.to/threads/is-it-possible-to-tell-renpy-to-stop-a-looped-video-a
 
 
 This page includes the code, examples on how to use it and the animation frames you'll need to execute the example.
-You must place the folder "animation frames" into the "images" folder.
+You must place the folder "anim_frames" into the "images" folder.
 
 The animation frames were rendered out in 1080p and contain a sphere moving from point A to B then to C. I suggest creating a new project at 1080p and testing it out to see if it works correctly.
 
