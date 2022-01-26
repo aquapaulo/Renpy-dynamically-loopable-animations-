@@ -17,4 +17,5 @@ This code has some bugs, such as sometimes it showing the first frame of the loo
 It's a pretty intensive piece of code too so if you're doing this at 1080p it may cause renpy to pause for half a second and load in the next loop's images.
 Not advisable to use on low end PC aimed projects, at too big a resolution or framerate, and I'd presume to be careful with it on mobile?
 
+It could also be the images I utilized went straight from Blender to renpy so they're quite uncompressed.
 Idunno, I took a month to finally find a way for this to work and caught a cold in the process so I'm dead tired lol
